@@ -1,0 +1,33 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "predominant_color",
+      "value": "#1FB228"
+    },
+    {
+      "name": "search_bar_bg_color",
+      "value": "#EAF0EC"
+    },
+    {
+      "name": "search_icon_color",
+      "value": "#859287"
+    },
+    {
+      "name": "search_bar_placeholder_color",
+      "value": "#839085"
+    },
+    {
+      "name": "tab_bar_title_color",
+      "value": "#6B6B6B"
+    },
+    {
+      "name": "light_gray_bg_color",
+      "value": "#F5F5F5"
+    }
+
+  ]
+}

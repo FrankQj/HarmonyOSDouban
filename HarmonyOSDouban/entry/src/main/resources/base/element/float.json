@@ -1,0 +1,20 @@
+{
+  "float": [
+    {
+      "name": "menu_image_size",
+      "value": "24fp"
+    },
+    {
+      "name": "global_margin_left",
+      "value": "12vp"
+    },
+    {
+      "name": "global_margin_right",
+      "value": "12vp"
+    },
+    {
+      "name": "global_space",
+      "value": "12vp"
+    }
+  ]
+}

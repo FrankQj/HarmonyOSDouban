@@ -1,0 +1,112 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "welcome_login_douban",
+      "value": "欢迎登录豆瓣:)"
+    },
+    {
+      "name": "login_tips",
+      "value": "新手机号将自动注册，已详读并同意 "
+    },
+    {
+      "name": "douban_agreement",
+      "value": "豆瓣使用协议, "
+    },
+    {
+      "name": "personal_info_agreement",
+      "value": "个人信息保护政策"
+    },
+    {
+      "name": "wechat_login",
+      "value": "微信登录"
+    },
+    {
+      "name": "account_password_login",
+      "value": "账号密码登录"
+    },
+    {
+      "name": "phone_number_login",
+      "value": "手机号登录"
+    },
+    {
+      "name": "other_ways_to_login",
+      "value": "其他登录方式"
+    },
+    {
+      "name": "home",
+      "value": "首页"
+    },
+    {
+      "name": "book_movie_video",
+      "value": "书影音"
+    },
+    {
+      "name": "group",
+      "value": "小组 "
+    },
+    {
+      "name": "market",
+      "value": "市集 "
+    },
+    {
+      "name": "mine",
+      "value": "我 "
+    },
+    {
+      "name": "network_reason",
+      "value": "俺需要请求网络展示图片"
+    },
+    {
+      "name": "join_douban_group",
+      "value": "加入小组，住进豆瓣 :)"
+    },
+    {
+      "name": "my_group",
+      "value": "我的小组"
+    },
+    {
+      "name": "total_num",
+      "value": "全部"
+    },
+    {
+      "name": "join_to",
+      "value": "+ 加入"
+    },
+    {
+      "name": "more",
+      "value": "更多"
+    },
+    {
+      "name": "douban_rank_ist",
+      "value": "豆瓣榜单"
+    },
+    {
+      "name": "find_group",
+      "value": "发现小组"
+    },
+    {
+      "name": "like",
+      "value": "赞"
+    },
+    {
+      "name": "reply",
+      "value": "回复"
+    },
+    {
+      "name": "repost",
+      "value": "转发"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "welcome_login_douban",
+      "value": "Welcome login Douban:)"
+    },
+    {
+      "name": "login_tips",
+      "value": "New phone number will auto register, have readed and agree  "
+    },
+    {
+      "name": "douban_agreement",
+      "value": "Douban agreement, "
+    },
+    {
+      "name": "personal_info_agreement",
+      "value": "Personal info protection agreement"
+    },
+    {
+      "name": "wechat_login",
+      "value": "Wechat Login"
+    },
+    {
+      "name": "account_password_login",
+      "value": "Account Password Login"
+    },
+    {
+      "name": "phone_number_login",
+      "value": "Phone Number Login"
+    },
+    {
+      "name": "other_ways_to_login",
+      "value": "Other ways to login"
+    },
+    {
+      "name": "home",
+      "value": "Home"
+    },
+    {
+      "name": "book_movie_video",
+      "value": "BookVideo "
+    },
+    {
+      "name": "group",
+      "value": "Group "
+    },
+    {
+      "name": "market",
+      "value": "Market "
+    },
+    {
+      "name": "mine",
+      "value": "Mine "
+    },
+    {
+      "name": "network_reason",
+      "value": "I want use network to display picture"
+    },
+    {
+      "name": "join_douban_group",
+      "value": "join to douban group :)"
+    },
+    {
+      "name": "my_group",
+      "value": "my group"
+    },
+    {
+      "name": "total_num",
+      "value": "total"
+    },
+    {
+      "name": "join_to",
+      "value": "+ join"
+    },
+    {
+      "name": "more",
+      "value": "more"
+    },
+    {
+      "name": "douban_rank_ist",
+      "value": "douban rank list"
+    },
+    {
+      "name": "find_group",
+      "value": "find group"
+    },
+    {
+      "name": "like",
+      "value": "Like"
+    },
+    {
+      "name": "reply",
+      "value": "Reply"
+    },
+    {
+      "name": "repost",
+      "value": "Repost"
+    }
+  ]
+}
